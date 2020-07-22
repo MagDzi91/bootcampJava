@@ -1,11 +1,1 @@
-some text
-
-zmiana magday1
-test NOWY
-
-<<<<<<< HEAD
-kupa 
-vdjkndsjv
-=======
-kupa 2
->>>>>>> e6a8cdc9be4c57b0a31151c05663182c7a488958
+nowalinia z master 
