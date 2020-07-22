@@ -3,4 +3,4 @@ some text
 zmiana magday1
 test NOWY
 
-kupa 
+kupa 2
