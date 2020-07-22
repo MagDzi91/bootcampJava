@@ -1,6 +1,2 @@
-some text
-
-zmiana magday1
-test NOWY
-
-kupa 2
+nowalinia z master 
+zmastera 
