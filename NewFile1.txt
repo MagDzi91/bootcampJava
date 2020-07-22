@@ -1,7 +1,6 @@
 some text
-<<<<<<< HEAD
 
 zmiana magday1
-=======
 test NOWY
->>>>>>> 3ce044aeb22de3fa5cc3e84cfc7400cf18105df1
+
+kupa 
