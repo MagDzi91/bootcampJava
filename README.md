@@ -1,3 +1,1 @@
-# bootcampJava
-New Line
-46min
+tekst branch1 
